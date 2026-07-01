@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0289/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 觀世音菩薩祕密藏如意輪陀羅尼神呪經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1082.xml
+    old_id: T20n1082
+hash: sha256:b764e1593278c5824906d5d0fe64f27245788ecc9a93d9d1731ff93d3deff1e6

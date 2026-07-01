@@ -1,0 +1,113 @@
+canonical_identifier: bkk:krp/KR6j0289/v1
+canonical_location: https://kanripo.org/bkk/KR6j0289/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 觀世音菩薩祕密藏如意輪陀羅尼神呪經
+  identifiers:
+    alt_id:
+    - T20n1082
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1082.xml
+    old_id: T20n1082
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0289_000.yaml, hash: 'sha256:b764e1593278c5824906d5d0fe64f27245788ecc9a93d9d1731ff93d3deff1e6'}
+  - {seq: 1, filename: KR6j0289_001.yaml, hash: 'sha256:cc5291b27a42fdc22637c97abc48c4245aeb54e5674f5ded99d1ff573e852d0d'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0289_001.markers.yaml, hash: 'sha256:80fa0aa767702644b19526b70223536be156aab916daa8673137de9760a69afe'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0289_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3642
+  label: '觀世音菩薩祕密藏如意輪陀羅
+
+    尼神呪經'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0289_T_001-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 1 除破一切惡業陀羅尼品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0289_T_001-mulu-2
+    span:
+    - body
+    - 1070
+    - 1070
+  label: 2 一切愛樂法品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0289_T_001-mulu-3
+    span:
+    - body
+    - 1615
+    - 1615
+  label: 3 和阿伽陀藥法令人愛樂品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0289_T_001-mulu-4
+    span:
+    - body
+    - 1861
+    - 1861
+  label: 4 如意輪含藥品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0289_T_001-mulu-5
+    span:
+    - body
+    - 2159
+    - 2159
+  label: 5 心輪眼藥品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0289_T_001-mulu-6
+    span:
+    - body
+    - 2841
+    - 2841
+  label: 6 火唵陀羅尼藥品
+  type: mulu
+  level: 1
+hash: sha256:69115080b8be480b990b583c8aa3bd136d07526d83ec70cf3c9df28594a91a7e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
