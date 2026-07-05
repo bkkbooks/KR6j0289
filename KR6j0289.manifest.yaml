@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0289_000.yaml, hash: 'sha256:b764e1593278c5824906d5d0fe64f27245788ecc9a93d9d1731ff93d3deff1e6'}
-  - {seq: 1, filename: KR6j0289_001.yaml, hash: 'sha256:cc5291b27a42fdc22637c97abc48c4245aeb54e5674f5ded99d1ff573e852d0d'}
+  - {seq: 1, filename: KR6j0289_001.yaml, hash: 'sha256:c8e21497f84ef8a4c4ab9a2a65d2b3c030e6b0e479d2082a623f15210bbbd7c0'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0289_001.markers.yaml, hash: 'sha256:80fa0aa767702644b19526b70223536be156aab916daa8673137de9760a69afe'}
+  - {seq: 0, role: markers, filename: assets/KR6j0289_000.markers.yaml, hash: 'sha256:fe30970db64b01d287d660df084f68c66a54965380f79d821ef0d2ea5c4bc550'}
+  - {seq: 1, role: markers, filename: assets/KR6j0289_001.markers.yaml, hash: 'sha256:7b0e2a500478f32506de4cbc2e602c270a9e9a2008d83cee1dc8eea253fb6ebe'}
 table_of_contents:
 - ref:
     seq: 1
@@ -107,7 +108,4 @@ table_of_contents:
   label: 6 火唵陀羅尼藥品
   type: mulu
   level: 1
-hash: sha256:69115080b8be480b990b583c8aa3bd136d07526d83ec70cf3c9df28594a91a7e
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:a9a8c8fdee44adfa4e427a84d761a1e577c4bb39328609a0eaf3b0885efd5b78
