@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0289/v1
 canonical_location: https://kanripo.org/bkk/KR6j0289/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 觀世音菩薩祕密藏如意輪陀羅尼神呪經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0289_000.yaml, hash: 'sha256:b764e1593278c5824906d5d0fe64f27245788ecc9a93d9d1731ff93d3deff1e6'}
-  - {seq: 1, filename: KR6j0289_001.yaml, hash: 'sha256:c8e21497f84ef8a4c4ab9a2a65d2b3c030e6b0e479d2082a623f15210bbbd7c0'}
+  - {seq: 1, filename: KR6j0289_001.yaml, hash: 'sha256:91709b359c6c43f7edd8f8c6eaf9af62efd4e067bff736959b542a96836590f7'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0289_000.markers.yaml, hash: 'sha256:fe30970db64b01d287d660df084f68c66a54965380f79d821ef0d2ea5c4bc550'}
-  - {seq: 1, role: markers, filename: assets/KR6j0289_001.markers.yaml, hash: 'sha256:7b0e2a500478f32506de4cbc2e602c270a9e9a2008d83cee1dc8eea253fb6ebe'}
+  - {seq: 1, role: markers, filename: assets/KR6j0289_001.markers.yaml, hash: 'sha256:dd77368ae8b89f6b68d14c5626c31c74a9dc4c653189f703d99ad1e65a4d6fb5'}
 table_of_contents:
 - ref:
     seq: 1
@@ -108,4 +108,7 @@ table_of_contents:
   label: 6 火唵陀羅尼藥品
   type: mulu
   level: 1
-hash: sha256:a9a8c8fdee44adfa4e427a84d761a1e577c4bb39328609a0eaf3b0885efd5b78
+hash: sha256:d42bb924465cc0acff14e61adf008d1a78c1ea56fc79ac07a910ff0858305870
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
